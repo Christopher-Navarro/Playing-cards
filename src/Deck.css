@@ -1,0 +1,13 @@
+.Deck {
+  text-align: center;
+}
+
+.Deck-cardarea {
+  margin-top: 80px;
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+}
